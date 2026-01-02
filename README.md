@@ -1,5 +1,5 @@
 # Marcus
-Software Engineer at Verecel
+Software Engineer at Vercel
 
 
 ## 🌐 Socials:
