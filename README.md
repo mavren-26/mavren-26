@@ -1,5 +1,5 @@
-# 💫 About Me:
-Verecel
+# Marcus
+Software Engineer at Verecel
 
 
 ## 🌐 Socials:
