@@ -1,6 +1,6 @@
 # Marcus
 Software Engineer at Vercel //
-Open Spurce Contributor 
+Open Source Contributor 
 
 
 ## 🌐 Socials:
