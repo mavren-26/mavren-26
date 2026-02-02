@@ -1,6 +1,6 @@
 # Marcus
 Software Engineer at Vercel //
-Open Source Contributor 
+Open Source Contributor .
 
 
 ## 🌐 Socials:
